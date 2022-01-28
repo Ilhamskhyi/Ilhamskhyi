@@ -32,8 +32,6 @@
 <p align="center"><a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-stats.vercel.app/api?username=ZeronoC&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilham&theme=radical&layout=compact"></a></p> 
 &nbsp;𝐺𝑖𝑡𝐻𝑢𝑏 𝐴𝑛𝑎𝑙𝑦𝑡𝑖𝑐𝑠✰
-<p align="center"><a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilhamskhzyi&theme=radical&layout=compact"></a></p> 
-
 <p align="center">
   <a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-streak-stats.herokuapp.com?user=xfar05&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
