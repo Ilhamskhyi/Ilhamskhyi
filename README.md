@@ -14,8 +14,6 @@
 <a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/Ilhamskhyi?color=red&style=flat-square"></a>
 <a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ilhamskhyi/botv1-Md?color=red&style=flat-square"></a>
 </p>
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 - Frameworks: &nbsp;
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
