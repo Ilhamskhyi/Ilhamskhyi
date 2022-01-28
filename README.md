@@ -25,7 +25,29 @@
 </p>
 
 
-## HOW TO CONNECT TO MONGODB WHEN 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-* Create account and database in mongodb atlas [`watch here`](https://youtu.be/rPqRyYJmx2g)
-* when you already have a database, you just need to take mongourl
+- Frameworks: &nbsp;
+
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+### ⚙ &nbsp;GitHub Analytics
+
+---
+
+<p align="center">
+  <a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-stats.vercel.app/api?username=xfar05&theme=tokyonight&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-streak-stats.herokuapp.com?user=xfar05&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/Ilhamskhzyi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xfar05&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/Ilhamskhyi"><img src="https://github-profile-trophy.vercel.app/?username=xfar05&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
