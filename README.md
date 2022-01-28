@@ -18,7 +18,7 @@
 
 - Frameworks: &nbsp;
 
-  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 <p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api?username=ZeronoC&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeronoC&theme=radical&layout=compact"></a></p> 
