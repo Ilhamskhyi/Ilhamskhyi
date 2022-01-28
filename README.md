@@ -4,7 +4,7 @@
 **Ilhamskhyi/Ilhamskhyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center">
-<gif src="https://telegra.ph/file/9d5f05f24dd13cee43548.mp4" alt="CATZY BOT" width="500"/>
+<vid src="https://telegra.ph/file/9d5f05f24dd13cee43548.mp4" alt="CATZY BOT" width="500"/>
 
 
 </p>
