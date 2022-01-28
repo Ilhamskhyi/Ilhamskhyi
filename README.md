@@ -1,6 +1,12 @@
 
 <p align="center">
 <img src="https://telegra.ph/file/9cbe3e0cf338cb58a9697.jpg" alt="CATZY BOT" width="500"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+- Frameworks: &nbsp;
+
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 </p>
 <p align="center">
@@ -17,30 +23,11 @@
 
 <p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api?username=ZeronoC&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeronoC&theme=radical&layout=compact"></a></p> 
-
-
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-- Frameworks: &nbsp;
-
-  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-
 ### ⚙ &nbsp;GitHub Analytics
-
----
-
-
 
 <p align="center">
   <a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-streak-stats.herokuapp.com?user=xfar05&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
-  
-<p align="center">
-  <a href="https://github.com/Ilhamskhzyi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xfar05&theme=tokyonight&layout=compact" /></a>
-</p>
-  
 <p align="center">
   <a href="https://github.com/Ilhamskhyi"><img src="https://github-profile-trophy.vercel.app/?username=xfar05&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
