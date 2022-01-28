@@ -3,27 +3,16 @@
 
 **Ilhamskhyi/Ilhamskhyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
-<img src="https://telegra.ph/file/06db0eb84b88d11d76e6a.jpg" alt="CATZY BOT" width="500"/>
+<img src="https://telegra.ph/file/9d5f05f24dd13cee43548.mp4" alt="CATZY BOT" width="500"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="CATZY BOT MULTI DEVICE" src="https://img.shields.io/badge/CATZY BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CATZY BOT ./ILHAM SKHZYI" src="https://img.shields.io/badge/CATZY BOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ilhamskhzyi/botv1-Md"><img title="Author" src="https://img.shields.io/badge/Author-Ilman-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ilhamskhzyi/botv1-Md"><img title="Author" src="https://img.shields.io/badge/Author-Ilham-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/Iihamhskhyzi?color=blue&style=flat-square"></a>
