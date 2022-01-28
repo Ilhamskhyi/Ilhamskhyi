@@ -6,7 +6,7 @@
 <p align="center">
 <vid src="https://telegra.ph/file/9d5f05f24dd13cee43548.mp4" alt="CATZY BOT" width="500"/>
 video autoplay="autoplay" hidden="hidden" src="https://telegra.ph/file/9d5f05f24dd13cee43548.mp4"></video>
-
+<p align="center">
 
 
 </p>
