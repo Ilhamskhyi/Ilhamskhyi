@@ -1,12 +1,6 @@
 
 <p align="center">
-<img src="https://telegra.ph/file/9cbe3e0cf338cb58a9697.jpg" alt="CATZY BOT" width="500"/>
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-- Frameworks: &nbsp;
-
-  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
+<img src="https://telegra.ph/file/9cbe3e0cf338cb58a9697.jpg" alt="CATZY BOT" width="500"/
 
 </p>
 <p align="center">
@@ -20,6 +14,11 @@
 <a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/Ilhamskhyi?color=red&style=flat-square"></a>
 <a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ilhamskhyi/botv1-Md?color=red&style=flat-square"></a>
 </p>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+- Frameworks: &nbsp;
+
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 <p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api?username=ZeronoC&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeronoC&theme=radical&layout=compact"></a></p> 
