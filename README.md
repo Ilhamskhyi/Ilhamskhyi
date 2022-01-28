@@ -1,17 +1,16 @@
 
 <p align="center">
 <img src="https://telegra.ph/file/9cbe3e0cf338cb58a9697.jpg" alt="CATZY BOT" width="500"/
-### Connect with me ☎️
 <p align="center">
-  <a href="https://instagram.com/fatiharridho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/PSH6TVWFFBQFL1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/fatih.arridho"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/fatihid_ofc"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/badge/YouTube-fatih id-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ" /><br>
+  <a href="https://instagram.com/Il_skhyzi12"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/687710621"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.facebook.com/Ilham skhzyi"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/ilham_skhzyi"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://youtube.com/channel/UCj40qS-kxkHKgNIZ72C6cVg"><img src="https://img.shields.io/badge/YouTube-CATZY BOT OFC id-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCj40qS-kxkHKgNIZ72C6cVg" /><br>
   <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/fatiharridho"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+View"></a>
+  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Ilhamskhyzi&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
 </p>
@@ -30,11 +29,10 @@
  
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api?username=ZeronoC&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ZeronoC"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeronoC&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-stats.vercel.app/api?username=ZeronoC&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilham&theme=radical&layout=compact"></a></p> 
 &nbsp;𝐺𝑖𝑡𝐻𝑢𝑏 𝐴𝑛𝑎𝑙𝑦𝑡𝑖𝑐𝑠✰
-<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api?username=fatiharridho&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiharridho&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilhamskhzyi&theme=radical&layout=compact"></a></p> 
 
 <p align="center">
   <a href="https://github.com/Ilhamskhyi"><img src="https://github-readme-streak-stats.herokuapp.com?user=xfar05&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
