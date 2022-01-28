@@ -1,5 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=IlhamskhyiC&data=followers,repositories,stars,commits)](https://github.com/Ilhamskhyi/github-widgetbox)
-
+[![GitHub WidgetBox](https://github-Ilhamskhyi.vercel.app/api/profile?username=IlhamskhyiC&data=followers,repositories,stars,commits)](https://github.com/Ilhamskhyi/github-Ilhamskhyi)
 <p align="center">
 <img src="https://telegra.ph/file/9cbe3e0cf338cb58a9697.jpg" alt="CATZY BOT" width="500"/>
 
