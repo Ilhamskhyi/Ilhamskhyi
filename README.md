@@ -47,10 +47,3 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 
 </p>
-sengaja Gua Taro Sini Biar Kalian Open github Saya ,Lalu Follow
-Dan You tube Saya Subscribe
-
-
-ssh -p 22 catzy@20.205.160.83
-
-pm2 start 'node index.js' --name catzy
