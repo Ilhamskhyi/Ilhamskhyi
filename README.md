@@ -12,6 +12,7 @@
   <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Ilhamskhyzi&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ilhamskhyi)
 
 </p>
 <p align="center">
